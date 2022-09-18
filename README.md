@@ -1,2 +1,2 @@
 # UNIVESP
-Algoritomos visto em aula e adptado para C++
+Algoritmos visto em aula e adaptado para C++
